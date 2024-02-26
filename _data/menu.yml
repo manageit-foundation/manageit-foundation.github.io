@@ -3,14 +3,7 @@
     - name: ManageIT
       link: /getting-started/manageit/
     - name: Navigation
-      link: /getting-started/mitnav/
-    - name: Anlassverwaltung
-      link: /getting-started/mitanlass/
-    - name: Fahrtenbuch
-      link: /getting-started/mitfahrtenbuch/
-    - name: Schlüsselverwaltung
-      link: /getting-started/mitschluessel/
-
+      link: /getting-started/nav/
 
 - label: System Components
   items: 
