@@ -1,7 +1,7 @@
 - label: Getting Started
   items:
-    - name: Installation
-      link: /docs/getting-started/installation/
+    - name: ManageIT
+      link: /getting-started/index/
     - name: Configuration
       link: /docs/getting-started/configuration/
     - name: Theming
