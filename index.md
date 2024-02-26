@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Docs
+title: ManageIT ZS
+subtitle: Digitale Führung der ZSO
 menubar: menu
 show_sidebar: false
 ---
 
-Bulma Clean Theme has many features available. The documentation has been spit into categories to make it easier to navigate through the various features. 
-
-Find out how to install Bulma Clean Theme in your Jekyll project in the [Installation](/bulma-clean-theme/docs/getting-started/installation/) section.
+Das digitale Kommando System ist ein einfaches Werkzeug für die Kommandanten und Offiziere zur Führung in der Zivilschutzorganisation. Es besteht aus einzelnen kleinen Software Modulen, die auch unabhängig auf einem autarken Computer betrieben werden können.

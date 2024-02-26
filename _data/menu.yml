@@ -2,21 +2,24 @@
   items:
     - name: ManageIT
       link: /getting-started/manageit/
-    - name: Configuration
-      link: /docs/getting-started/configuration/
-    - name: Theming
-      link: /docs/getting-started/theming/
-    - name: Sidebar
-      link: /docs/getting-started/sidebar/
-    - name: Scripts
-      link: /docs/getting-started/scripts/
+    - name: Navigation
+      link: /getting-started/mitnav/
+    - name: Anlassverwaltung
+      link: /getting-started/mitanlass/
+    - name: Fahrtenbuch
+      link: /getting-started/mitfahrtenbuch/
+    - name: Schlüsselverwaltung
+      link: /getting-started/mitschluessel/
 
 
-- label: Navigation
-  items:
-    - name: Top navigation
-      link: /docs/navigation/top-navigation/
-    - name: Footer navigation
-      link: /docs/navigation/footer-navigation/
-    - name: Menubar
-      link: /docs/navigation/menubar/
+- label: System Components
+  items: 
+    - name: Internet Application Gateway
+      link: /system-components/iag/
+    - name: ID and Access Management
+      link: /system-components/iam/
+    - name: Software Repository
+      link: /system-components/repo/
+    - name: Datenbank
+      link: /system-components/db/
+      
